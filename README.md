@@ -1,8 +1,8 @@
-🌍 US Visa Overstay Analysis - Exploratory Data Analysis (EDA)
-📊 Project Overview
+# 🌍 US Visa Overstay Analysis - Exploratory Data Analysis (EDA)
+## 📊 Project Overview
 This project focuses on analyzing US visa overstays using a dataset that includes data from 195 countries. The goal is to explore yearly overstay trends, compare the highest and lowest overstay rates by country, examine changes during the pandemic, and predict future overstays.
 
-🗂 Dataset
+## 🗂 Dataset
 The dataset used in this analysis contains visa overstay data from 2015 to 2022, with the following columns:
 
 COUNTRY: The name of the country.
@@ -16,7 +16,7 @@ COUNTRY: The name of the country.
 2022: Overstay rates for the year 2022.
 
 
-🛠️ Tools & Libraries
+## 🛠️ Tools & Libraries
 For this project, the following tools and libraries were used:
 
 Python: For data manipulation and analysis.
@@ -28,7 +28,7 @@ Scikit-learn: For linear regression modeling.
 Jupyter Notebook: As the development environment.
 
 
-📈 Key Analysis: Exploratory Data Analysis (EDA)
+## 📈 Key Analysis: Exploratory Data Analysis (EDA)
 The core focus of this analysis is to conduct an exploratory data analysis on US visa overstays:
 
 Yearly Overstay Trends: Analyze how overstay rates have changed year over year.
@@ -37,7 +37,7 @@ Pandemic Overstay Changes: Examine how the COVID-19 pandemic impacted overstay r
 Future Predictions: Utilize historical data to predict future trends in overstays.
 
 
-🔍 Key Findings
+## 🔍 Key Findings
 Yearly Trends: Overstay rates exhibited significant fluctuations during the pandemic.
 Country Comparisons: Some countries consistently show high overstay rates, indicating potential areas for policy focus.
 Future Predictions: Based on historical trends, certain patterns may indicate future increases or decreases in overstays.
